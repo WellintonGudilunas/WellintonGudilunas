@@ -17,7 +17,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="right" height="250" alt="coding-time" src="gifProgramador.gif">
+    <img align="right" height="300" alt="coding-time" src="gifProgramador.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
       <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,8 +25,9 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
-   
-   ##
+    <br>
+   <h1 align="center">Contato</h1>
+
    <br>
    <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wellintongudilunas788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
