@@ -6,13 +6,43 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
 <div>
-  <img  height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=WellintonGudilunas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="left" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellintonGudilunas&layout=compact&langs_count=16&theme=dark"/><br>
- </div>
- 
-</br></br></br></br></br></br></br>
-  ##
   
-      <img align="left" height="180em" width="400em" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p91heo7ndvysc04kiwvu49v71rx1zdrge2cocwdx&rid=giphy.gif&ct=g"/><br>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WellintonGudilunas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellintonGudilunas&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<br>
+
+##
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="right" height="250" alt="coding-time" src="gifProgramador.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+      <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   </div>
+   
+   ##
+   <br>
+   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:wellintongudilunas788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wellinton-gudilunas-55827524a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+ </div><br>
+
+
+
+
+ <div align="center"> 	
+ 
+  
+  
+![snake gif](https://github.com/WellintonGudilunas/WellintonGudilunas/blob/output/github-contribution-grid-snake.gif)
+</div>
+
+  ##
+ 
