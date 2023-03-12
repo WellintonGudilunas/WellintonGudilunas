@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Node, Typescript and React
+- 🌱 I’m currently learning Node, Java and React
 - 😄 
 <div>
     <img height="180em"
