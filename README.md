@@ -14,7 +14,7 @@
 <div align="center">
     <div style="display: inline_block"><br>
         <img align="right" height="300" alt="coding-time" src="gifProgramador.gif">
-        <h1 align="center">Melhores Tecnologias <3</h1>
+        <h1 align="center">Melhores Tecnologias</h1>
         <img align="center" alt="Js" height="40" width="50"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <!--<img align="center" alt="Ts" height="40" width="50"
