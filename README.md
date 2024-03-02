@@ -8,11 +8,7 @@
 
 ##
   
-![snakegif](https://github.com/WellintonGudilunas/WellintonGudilunas/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snakegif](https://github.com/WellintonGudilunas/WellintonGudilunas/blob/output/github-contribution-grid-snake.gif) -->
   
 </div>
-
-##
-
-  ##
  
